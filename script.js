@@ -1,5 +1,3 @@
-var nome;
-
-nome = "Calou.";
+var nome = "Calou.";
 
 console.log(nome);
