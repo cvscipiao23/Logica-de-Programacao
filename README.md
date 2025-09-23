@@ -1,2 +1,3 @@
 # Logica-de-Programacao
-Js Logica de programação
+
+- Proposta de aula sobre lógica de progreamção com JavaScript.
