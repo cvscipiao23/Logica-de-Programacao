@@ -70,4 +70,33 @@
 //    }
 //    else{
 //         console.log("ERROR")  
-//    }
+
+    // var i = 0;
+
+    //     while(i <= 10){
+    //         console.log(i)
+    //         i++;
+    //     }
+
+
+    //OBJETOS
+
+    // var car = { brand: "Fiat", model: "Uno", year: 1997 }
+
+    // var person = {
+    //     name: "Alex",
+    //     age: 29,
+    //     height: 1.79,
+    //     username: "Alex123"
+    // }
+
+    // console.log("Sua altura: " +person.height);
+    // console.log("Seu username: " +person.username);
+
+   var usuarios = [
+        {nome: 'Alex', email: "alexbessa@gmail.com"},
+        {nome: "Arthur", email: "arthurpinheiro@gmail.com"},
+        {nome: "Carlos", email: "carloscalou@gmail.com"}
+   ];
+
+   console.log(usuarios[2].email);
